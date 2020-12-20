@@ -1,2 +1,2 @@
-# H310M-K-Bundkort
-ASUS Prime H310M-K
+# ASUS Prime H310M-K
+# Coffee Lake
